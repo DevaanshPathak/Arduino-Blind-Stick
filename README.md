@@ -10,7 +10,7 @@ This project is a low-cost, Arduino-powered smart stick designed to assist visua
 - Audible alerts using a buzzer
 - Visual alerts using an LED
 - Compact design with custom PCB
-- Powered by Arduino Nano
+- Powered by Arduino Uno
 
 ---
 
@@ -18,7 +18,7 @@ This project is a low-cost, Arduino-powered smart stick designed to assist visua
 
 | Component        | Quantity |
 |------------------|----------|
-| Arduino Nano     | 1        |
+| Arduino Uno     | 1        |
 | HC-SR04 Sensor   | 1        |
 | Buzzer           | 1        |
 | LED (5mm)        | 1        |
