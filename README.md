@@ -14,6 +14,9 @@ This project is a low-cost, Arduino-powered smart stick designed to assist visua
 
 ---
 
+Slack Username = Devaansh Pathak
+
+---
 ## 🧩 Components Used
 
 | Component        | Quantity |
